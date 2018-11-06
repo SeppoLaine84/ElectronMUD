@@ -7,6 +7,7 @@
     "name": ""
   },
   "dependencies": {
-    "ansi-colors": "^3.2.1"
+    "ansi-colors": "^3.2.1",
+    "mongoose": "^5.3.10"
   }
 }
