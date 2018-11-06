@@ -1,0 +1,15 @@
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\bin\Debug\ElectronMUDItemEditor.exe.config
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\bin\Debug\ElectronMUDItemEditor.exe
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\bin\Debug\ElectronMUDItemEditor.pdb
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor.csprojAssemblyReference.cache
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\MainWindow.g.cs
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\App.g.cs
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor_MarkupCompile.cache
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor_MarkupCompile.lref
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\MainWindow.baml
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor.g.resources
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor.Properties.Resources.resources
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor.csproj.GenerateResource.cache
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor.csproj.CoreCompileInputs.cache
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor.exe
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDItemEditor\obj\Debug\ElectronMUDItemEditor.pdb

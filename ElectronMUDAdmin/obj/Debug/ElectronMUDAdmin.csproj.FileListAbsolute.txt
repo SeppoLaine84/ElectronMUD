@@ -1,0 +1,10 @@
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\bin\Debug\ElectronMUDAdmin.exe.config
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\bin\Debug\ElectronMUDAdmin.exe
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\bin\Debug\ElectronMUDAdmin.pdb
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.csprojAssemblyReference.cache
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.Form1.resources
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.Properties.Resources.resources
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.csproj.GenerateResource.cache
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.csproj.CoreCompileInputs.cache
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.exe
+D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.pdb
