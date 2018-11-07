@@ -65,3 +65,6 @@ typings/
 .next
 *.lock
 ElectronMUDNodeServer/package-lock.json
+ElectronMUDItemEditor/obj/Debug/ElectronMUDItemEditor.csproj.CoreCompileInputs.cache
+ElectronMUDItemEditor/obj/Debug/ElectronMUDItemEditor_MarkupCompile.cache
+ElectronMUDItemEditor/obj/Debug/ElectronMUDItemEditor_MarkupCompile.lref
