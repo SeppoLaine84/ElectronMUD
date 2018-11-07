@@ -1,0 +1,17 @@
+{
+	type:			ItemType.WEAPON,
+	name:			"Sword of Justice",
+	shortName:		"Sword",
+	aliases:		["sword", "weapon"],
+	description:	"This sword's guard strongly resembles a claw which clutches the wielder's hand protectively."+ 
+					"Its grip is of a yellow wood. The pommel bears a single peridot",
+	stats: { 
+		damageType: DamageType.SWORD,
+		damage:		1000,
+		durability: 124,
+		material:	[Material.IRON],
+		size:		15,
+		glow:		Glow.RED,
+		criticalDamageMultiplier: 3,
+	}	
+}

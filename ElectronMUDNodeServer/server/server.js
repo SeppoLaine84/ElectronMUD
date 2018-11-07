@@ -47,7 +47,7 @@ function Server(port, autostart = true) {
     // Client connects to server.
     ClientConnected = function (socket) {
         AddClient(socket);
-        Send(socket, "Welcome to the Telnet server!\n\r********************************************")
+        Send(socket, "Welcome to the Telnet server!\n\r********************************************");
         Send(socket, '1 - enter the game');
         Send(socket, 'q - quit');
      
