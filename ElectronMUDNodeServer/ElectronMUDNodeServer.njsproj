@@ -30,6 +30,10 @@
   <ItemGroup>
     <Compile Include="app.js" />
     <Compile Include="config.js" />
+    <Compile Include="game\characterBase.js" />
+    <Compile Include="game\enums.js" />
+    <Compile Include="game\helpers\point.js" />
+    <Compile Include="game\player\player.js" />
     <Compile Include="server\db\commands.js" />
     <Compile Include="game\commandHandler.js" />
     <Compile Include="game\engine.js" />
@@ -39,6 +43,7 @@
     <Compile Include="game\world\tile.js" />
     <Compile Include="game\world\world.js" />
     <Compile Include="server\log.js" />
+    <Compile Include="server\misc\login.js" />
     <Compile Include="server\server.js" />
     <Content Include="assets\ascii art\fractal.txt" />
     <Content Include="assets\game data\items\README.md" />
@@ -57,10 +62,14 @@
     <Folder Include="assets\game data\items\accessories\" />
     <Folder Include="assets\game data\items\weapons\" />
     <Folder Include="game\" />
+    <Folder Include="game\helpers\" />
+    <Folder Include="game\npc\" />
+    <Folder Include="game\player\" />
     <Folder Include="game\world\" />
     <Folder Include="assets\" />
     <Folder Include="server\db\" />
     <Folder Include="server\" />
+    <Folder Include="server\misc\" />
   </ItemGroup>
   <!-- Do not delete the following Import Project.  While this appears to do nothing it is a marker for setting TypeScript properties before our import that depends on them. -->
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="False" />

@@ -34,7 +34,10 @@ var log = {
     client: function (text) {
         console.log(c.magenta(getDateTime() + " CLIENT: ") + text);
     },
-
+    success: function (text) {
+        console.log(c.greenBright.bold(getDateTime() + " CLIENT: ") + text);
+    }
+                        
 };
 
 module.exports = log;

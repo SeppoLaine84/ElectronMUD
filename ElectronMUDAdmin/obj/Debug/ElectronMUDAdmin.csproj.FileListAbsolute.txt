@@ -8,3 +8,14 @@ D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\Ele
 D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.csproj.CoreCompileInputs.cache
 D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.exe
 D:\Ohjelmointi\source\repos\ElectronMUDNodeServer\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.pdb
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\bin\Debug\ElectronMUDAdmin.exe.config
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\bin\Debug\ElectronMUDAdmin.exe
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\bin\Debug\ElectronMUDAdmin.pdb
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.csprojAssemblyReference.cache
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.Form1.resources
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.Properties.Resources.resources
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.csproj.GenerateResource.cache
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.csproj.CoreCompileInputs.cache
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.exe
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.pdb
+C:\Users\hitto\Documents\GitHub\ElectronMUD\ElectronMUDAdmin\obj\Debug\ElectronMUDAdmin.components.commandEditor.resources

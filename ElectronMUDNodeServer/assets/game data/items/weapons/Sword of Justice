@@ -1,5 +1,5 @@
 {
-	type:			ItemType.WEAPON,
+	type:			enum.ItemType.WEAPON,
 	name:			"Sword of Justice",
 	shortName:		"Sword",
 	aliases:		["sword", "weapon"],
